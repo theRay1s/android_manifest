@@ -3,7 +3,7 @@
 
   <remote fetch="https://github.com/" name="git"/>
 
-        <project name="Charlie-117/device_motorola_merlin" revision="lineage-18.1" remote="git" path="device/motorola/merlin"/>
+        <project name="Charlie-117/device_motorola_merlin" revision="crdroid-11-test" remote="git" path="device/motorola/merlin"/>
         <project name="jro1979oliver/device_motorola_harpia" path="device/motorola/harpia" remote="git" revision="lineage-18.1"/>
        
         <project name="Charlie-117/device_motorola_msm8916-common" revision="lineage-18.1" remote="git" path="device/motorola/msm8916-common"/>
