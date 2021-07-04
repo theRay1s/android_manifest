@@ -25,7 +25,7 @@
         <project name="motorola/motorola_motosignatureapp" revision="eleven" remote="nemesis" path="packages/apps/MotoSignatureApp"/>
 
         <!-- MindTheGapps -->
-        <project name="MindTheGapps/vendor_gapps" revision="rho" remote="gitlabs" path="vendor/mgapps"/>
+        <project name="MindTheGapps/vendor_gapps" revision="rho" remote="gitlabs" path="vendor/gapps"/>
 
         <!-- Temporary for testing Turbo Charging
         <remove-project name="crdroidandroid/android_frameworks_base"/>
