@@ -29,7 +29,7 @@
 
         <!-- Temporary for testing Turbo Charging -->
         <remove-project name="crdroidandroid/android_frameworks_base"/>
-        <project name="Charlie-117/android_frameworks_base" revision="11.0-turbo" remote="githubus" path="frameworks/base"/>
+        <project name="Charlie-117/android_frameworks_base" revision="11.0-turbo" remote="git" path="frameworks/base"/>
 
         <!-- Misc dependencies -->
         <project name="LineageOS/android_external_bson" revision="lineage-18.1" remote="git" path="external/bson"/>
